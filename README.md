@@ -336,7 +336,7 @@ Through this project I gained practical experience in:
 A detailed walkthrough containing screenshots and implementation steps is available in:
 
 ```text
-docs/Project_Walkthrough.pdf
+Project_Walkthrough.pdf
 ```
 
 ---
