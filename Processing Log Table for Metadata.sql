@@ -1,0 +1,15 @@
+
+*****************************************************************
+******* Created processing_log table for storing metadata *******
+*****************************************************************
+
+create schema metadata;
+
+create table metadata.processing_log
+(
+	pipeline_run_id varchar(255), 
+	table_processed varchar(255), 
+	rows_processed INT, 
+	latest_processed_pickup datetime2(6),
+	processed_datetime datetime2(6)
+);
