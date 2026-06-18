@@ -106,6 +106,9 @@ A dedicated Microsoft Fabric workspace was created to host all project assets in
 
 Source NYC Taxi datasets were uploaded into a Lakehouse.
 
+Source data link (Used parquet files for year 2024 for this project)
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 This layer acts as the raw data repository and serves as the starting point for downstream processing.
 
 <img width="959" height="439" alt="Screenshot 2026-06-11 120633" src="https://github.com/user-attachments/assets/35b26dec-52cb-48c4-a0f9-84a44965d822" />
